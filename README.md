@@ -35,10 +35,6 @@ In the game, you will encounter different types of robotic enemies:
 
 We hope you enjoy playing **"RunNGun"** as much as we enjoyed creating it. Thank you for your support!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to YouTube for providing valuable resources and tutorials that aided in the development of this game.
