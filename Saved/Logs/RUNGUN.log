@@ -1960,3 +1960,1334 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.27-05.17.35:455][638]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
 [2024.05.27-05.17.35:455][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.05.27-05.17.35:516][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-05.20.05:176][859]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Ether\Downloads\pew-pew-lame-sound-effect.mp3)
+[2024.05.27-05.20.05:181][859]LogAudioDerivedData: Display: Идёт построение: формат сжатого звука BINKA хэш BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END волна pew-pew-lame-sound-effect...
+[2024.05.27-05.20.05:182][859]LogAudio: Display: Chunk stats for (SoundWave /Game/NpcProto/pew-pew-lame-sound-effect.pew-pew-lame-sound-effect: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12753 bytes, ChunkN=0)
+[2024.05.27-05.20.05:183][859]LogAudioDerivedData: Display: Идёт построение: формат сжатого звука BINKA хэш BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END волна pew-pew-lame-sound-effect...
+[2024.05.27-05.20.05:185][859]LogAudio: Display: Chunk stats for (SoundWave /Game/NpcProto/pew-pew-lame-sound-effect.pew-pew-lame-sound-effect: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12753 bytes, ChunkN=0)
+[2024.05.27-05.20.13:243][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2024.05.27-05.20.17:383][ 68]LogSlate: Window 'BP_FirstPersonPlayerController' being destroyed
+[2024.05.27-05.20.17:387][ 68]LogSlate: Window 'BP_FirstPersonPlayerController' being destroyed
+[2024.05.27-05.20.17:415][ 68]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.20.17:415][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.20.17:451][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.27-05.20.19:152][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.27-05.20.24:535][884]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.05.27-05.20.24:539][884]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.05.27-05.20.24:565][884]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.20.24:565][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.20.24:627][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.27-05.20.28:916][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.05.27-05.20.36:319][253]LogSlate: Window 'BP_Pickup_Rifle' being destroyed
+[2024.05.27-05.20.36:323][253]LogSlate: Window 'BP_Pickup_Rifle' being destroyed
+[2024.05.27-05.20.36:325][253]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.20.36:325][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.20.36:371][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-05.20.38:218][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.05.27-05.21.06:563][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NpcProto/BP_AI_ENEMY.BP_AI_ENEMY
+[2024.05.27-05.22.01:624][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.27-05.22.02:109][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-05.22.02:132][905]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NpcProto/BP_AI_ENEMY] ([2] browsable assets)...
+[2024.05.27-05.22.02:161][905]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NpcProto/BP_AI_ENEMY.BP_AI_ENEMY]
+[2024.05.27-05.22.02:162][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/BP_AI_ENEMY]
+[2024.05.27-05.22.02:162][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NpcProto/BP_AI_ENEMY" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_AI_ENEMY.uasset" SILENT=true
+[2024.05.27-05.22.02:168][905]LogSavePackage: Moving output files for package: /Game/NpcProto/BP_AI_ENEMY
+[2024.05.27-05.22.02:168][905]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BP_AI_ENEMYECF061D84982EBF8109231B896A0DB47.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_AI_ENEMY.uasset'
+[2024.05.27-05.22.02:175][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.846 ms (total: 627.508 ms)
+[2024.05.27-05.22.02:197][905]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-05.22.02:197][905]LogContentValidation: Enabled validators:
+[2024.05.27-05.22.02:197][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-05.22.02:197][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-05.22.02:197][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-05.22.02:197][905]LogContentValidation: Display: Validating asset /Game/NpcProto/BP_AI_ENEMY.BP_AI_ENEMY
+[2024.05.27-05.22.02:197][905]AssetCheck: /Game/NpcProto/BP_AI_ENEMY Проверка ресурса
+[2024.05.27-05.22.02:543][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.27-05.22.05:931][337]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-05.22.05:937][337]LogContentBundle: [FirstPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-05.22.05:937][337]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-05.22.05:938][337]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 820 us (total: 8.055 ms)
+[2024.05.27-05.22.05:940][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-05.22.05:940][337]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-05.22.05:942][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001939s)
+[2024.05.27-05.22.05:942][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.001963s)
+[2024.05.27-05.22.05:954][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-05.22.05:957][337]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-05.22.05:958][337]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-05.22.05:958][337]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-05.22.05:958][337]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-05.22.05:958][337]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-05.22.05:958][337]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-05.22.05:958][337]LogWorldPartition: Display: WorldPartition initialize took 685 us (total: 271.731 ms)
+[2024.05.27-05.22.05:958][337]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2024.05.27-05.22.05:983][337]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.27-05.22.05:983][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-05.22.05:983][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-05.22.05:983][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-05.22.05:983][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-05.22.05:983][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-05.22.05:983][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-05.22.05:983][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-05.22.05:983][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-05.22.05:983][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-05.22.05:983][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-05.22.05:983][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-05.22.05:985][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-05.22.06:004][337]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-05.22.06:004][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-05.22.06:004][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-05.22.06:004][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-05.22.06:005][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.27-05.22.06:005][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2024.05.27-05.22.06:006][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.27-05.22.06:006][337]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.27-05.22.06:006][337]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2024.05.27-05.22.06:006][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.27-05.22.06:006][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.27-05.22.06:008][337]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-05.22.06:008][337]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-07.22.06
+[2024.05.27-05.22.06:009][337]LogWorld: Bringing up level for play took: 0.001012
+[2024.05.27-05.22.06:010][337]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.05.27-05.22.06:036][337]PIE: Сервер вошел в систему
+[2024.05.27-05.22.06:037][337]PIE: Общее время запуска игры в редакторе: 0,103
+[2024.05.27-05.22.09:053][692]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 9.0
+[2024.05.27-05.22.10:054][812]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8.0
+[2024.05.27-05.22.11:054][932]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7.0
+[2024.05.27-05.22.11:554][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6.0
+[2024.05.27-05.22.12:053][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 5.0
+[2024.05.27-05.22.12:554][112]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4.0
+[2024.05.27-05.22.13:554][232]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3.0
+[2024.05.27-05.22.14:555][352]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2.0
+[2024.05.27-05.22.15:054][412]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1.0
+[2024.05.27-05.22.15:555][472]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.0
+[2024.05.27-05.22.15:555][472]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.16:555][592]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -1.0
+[2024.05.27-05.22.16:555][592]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.17:055][652]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -2.0
+[2024.05.27-05.22.17:055][652]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.17:554][712]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -3.0
+[2024.05.27-05.22.17:555][712]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.18:055][772]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -4.0
+[2024.05.27-05.22.18:055][772]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.19:054][892]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -5.0
+[2024.05.27-05.22.19:054][892]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.19:555][952]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -6.0
+[2024.05.27-05.22.19:555][952]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.20:054][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -7.0
+[2024.05.27-05.22.20:055][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.21:555][192]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -8.0
+[2024.05.27-05.22.21:555][192]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.22.21:649][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-05.22.21:649][200]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-05.22.21:649][200]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.22.21:650][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.22.21:650][200]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-05.22.21:650][200]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-05.22.21:650][200]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-05.22.21:650][200]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-05.22.21:663][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-05.22.21:666][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.22.21:676][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-05.22.21:676][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.27-05.22.21:676][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.27-05.22.21:677][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.27-05.22.21:682][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-05.22.21:748][201]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.05.27-05.24.13:652][961]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Ether\Downloads\m4a1_single-kibblesbob-8540445.mp3)
+[2024.05.27-05.24.13:653][961]LogAudioDerivedData: Display: Идёт построение: формат сжатого звука BINKA хэш BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END волна m4a1_single-kibblesbob-8540445...
+[2024.05.27-05.24.13:659][961]LogAudio: Display: Chunk stats for (SoundWave /Game/NpcProto/m4a1_single-kibblesbob-8540445.m4a1_single-kibblesbob-8540445: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=33579 bytes, ChunkN=0)
+[2024.05.27-05.24.13:659][961]LogAudioDerivedData: Display: Идёт построение: формат сжатого звука BINKA хэш BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END волна m4a1_single-kibblesbob-8540445...
+[2024.05.27-05.24.13:663][961]LogAudio: Display: Chunk stats for (SoundWave /Game/NpcProto/m4a1_single-kibblesbob-8540445.m4a1_single-kibblesbob-8540445: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=33579 bytes, ChunkN=0)
+[2024.05.27-05.24.26:475][180]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NpcProto/BP_HEAVY_ENEMY.BP_HEAVY_ENEMY
+[2024.05.27-05.25.33:762][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-05.25.33:786][530]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NpcProto/BP_HEAVY_ENEMY] ([2] browsable assets)...
+[2024.05.27-05.25.33:816][530]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NpcProto/BP_HEAVY_ENEMY.BP_HEAVY_ENEMY]
+[2024.05.27-05.25.33:816][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/BP_HEAVY_ENEMY]
+[2024.05.27-05.25.33:816][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NpcProto/BP_HEAVY_ENEMY" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_HEAVY_ENEMY.uasset" SILENT=true
+[2024.05.27-05.25.33:822][530]LogSavePackage: Moving output files for package: /Game/NpcProto/BP_HEAVY_ENEMY
+[2024.05.27-05.25.33:823][530]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BP_HEAVY_ENEMYBA75CB4F4CF1DF870BC4FEB36C7FE66E.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_HEAVY_ENEMY.uasset'
+[2024.05.27-05.25.33:831][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.014 ms (total: 696.523 ms)
+[2024.05.27-05.25.33:857][530]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-05.25.33:857][530]LogContentValidation: Enabled validators:
+[2024.05.27-05.25.33:857][530]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-05.25.33:857][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-05.25.33:857][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-05.25.33:857][530]LogContentValidation: Display: Validating asset /Game/NpcProto/BP_HEAVY_ENEMY.BP_HEAVY_ENEMY
+[2024.05.27-05.25.33:857][530]AssetCheck: /Game/NpcProto/BP_HEAVY_ENEMY Проверка ресурса
+[2024.05.27-05.25.36:308][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-05.25.36:333][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NpcProto/BP_HEAVY_ENEMY] ([2] browsable assets)...
+[2024.05.27-05.25.36:334][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/BP_HEAVY_ENEMY]
+[2024.05.27-05.25.36:334][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NpcProto/BP_HEAVY_ENEMY" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_HEAVY_ENEMY.uasset" SILENT=true
+[2024.05.27-05.25.36:341][822]LogSavePackage: Moving output files for package: /Game/NpcProto/BP_HEAVY_ENEMY
+[2024.05.27-05.25.36:341][822]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BP_HEAVY_ENEMY14A516B74353B6395E08B1BC4F7E4899.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_HEAVY_ENEMY.uasset'
+[2024.05.27-05.25.36:348][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.305 ms (total: 735.829 ms)
+[2024.05.27-05.25.36:370][822]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-05.25.36:370][822]LogContentValidation: Enabled validators:
+[2024.05.27-05.25.36:370][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-05.25.36:370][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-05.25.36:370][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-05.25.36:370][822]LogContentValidation: Display: Validating asset /Game/NpcProto/BP_HEAVY_ENEMY.BP_HEAVY_ENEMY
+[2024.05.27-05.25.36:370][822]AssetCheck: /Game/NpcProto/BP_HEAVY_ENEMY Проверка ресурса
+[2024.05.27-05.25.37:391][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.27-05.26.08:066][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.27-05.26.17:394][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.27-05.26.19:737][975]LogSlate: Window 'BP_HEAVY_ENEMY' being destroyed
+[2024.05.27-05.26.19:741][975]LogSlate: Window 'BP_HEAVY_ENEMY' being destroyed
+[2024.05.27-05.26.19:743][975]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.26.19:743][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.26.19:778][975]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.26.19:778][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.26.19:807][975]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.27-05.26.19:807][975]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.26.19:807][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.26.19:846][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-05.27.43:017][ 23]LogAssetTools: Warning: Не удалось импортировать 'C:\Users\Ether\Documents\EPITECH\EpitechJAM_3-LIT\LIT\Content\Maps\mainmenumap.umap'. Неизвестное расширение 'umap'.
+[2024.05.27-05.27.46:903][ 97]LogAssetTools: Warning: Не удалось импортировать 'C:\Users\Ether\Documents\EPITECH\EpitechJAM_3-LIT\LIT\Content\Maps\UI/Mainmenu.uasset'. Неизвестное расширение 'uasset'.
+[2024.05.27-05.27.46:913][ 97]LogAssetTools: Warning: Не удалось импортировать 'C:\Users\Ether\Documents\EPITECH\EpitechJAM_3-LIT\LIT\Content\Maps\UI/Menugamemode.uasset'. Неизвестное расширение 'uasset'.
+[2024.05.27-05.27.46:919][ 97]LogAssetTools: Warning: Не удалось импортировать 'C:\Users\Ether\Documents\EPITECH\EpitechJAM_3-LIT\LIT\Content\Maps\UI/WechatIMG781.uasset'. Неизвестное расширение 'uasset'.
+[2024.05.27-05.28.08:631][839]LogAssetTools: Warning: Не удалось импортировать 'C:\Users\Ether\Documents\EPITECH\EpitechJAM_3-LIT\LIT\Content\Maps\mainmenumap.umap'. Неизвестное расширение 'umap'.
+[2024.05.27-05.28.40:769][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-05.28.40:772][317]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2024.05.27-05.28.40:772][317]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NpcProto/pew-pew-lame-sound-effect] ([1] browsable assets)...
+[2024.05.27-05.28.40:778][317]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/NpcProto/pew-pew-lame-sound-effect.pew-pew-lame-sound-effect]
+[2024.05.27-05.28.40:778][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/pew-pew-lame-sound-effect]
+[2024.05.27-05.28.40:780][317]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NpcProto/pew-pew-lame-sound-effect_Auto3
+[2024.05.27-05.28.40:780][317]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/pew-pew-lame-sound-effect_Auto3C1BAD5E4458BB6782934CAA55357CDAC.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/NpcProto/pew-pew-lame-sound-effect_Auto3.uasset'
+[2024.05.27-05.28.40:780][317]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NpcProto/m4a1_single-kibblesbob-8540445] ([1] browsable assets)...
+[2024.05.27-05.28.40:783][317]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/NpcProto/m4a1_single-kibblesbob-8540445.m4a1_single-kibblesbob-8540445]
+[2024.05.27-05.28.40:783][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/m4a1_single-kibblesbob-8540445]
+[2024.05.27-05.28.40:784][317]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NpcProto/m4a1_single-kibblesbob-8540445_Auto3
+[2024.05.27-05.28.40:784][317]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/m4a1_single-kibblesbob-8540445_A47A7876F42F3B11E8CDAA3B05DA51396.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/NpcProto/m4a1_single-kibblesbob-8540445_Auto3.uasset'
+[2024.05.27-05.28.40:785][317]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.05.27-05.28.42:267][442]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.05.27-05.28.51:261][499]LogSlate: Window 'Добавить контент в проект' being destroyed
+[2024.05.27-05.46.08:007][638]LogDerivedDataCache: C:/Users/Ether/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.05.27-05.53.38:776][935]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-05.53.38:788][935]LogContentBundle: [FirstPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-05.53.38:788][935]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-05.53.38:789][935]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 881 us (total: 8.937 ms)
+[2024.05.27-05.53.38:795][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-05.53.38:845][935]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-05.53.38:847][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002034s)
+[2024.05.27-05.53.38:847][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002061s)
+[2024.05.27-05.53.38:864][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.27-05.53.38:867][935]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-05.53.38:867][935]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-05.53.38:867][935]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-05.53.38:867][935]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-05.53.38:867][935]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-05.53.38:868][935]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-05.53.38:868][935]LogWorldPartition: Display: WorldPartition initialize took 688 us (total: 272.420 ms)
+[2024.05.27-05.53.38:868][935]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2024.05.27-05.53.38:947][935]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.27-05.53.38:947][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-05.53.38:947][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-05.53.38:947][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-05.53.38:947][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-05.53.38:947][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-05.53.38:947][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-05.53.38:947][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-05.53.38:947][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-05.53.38:947][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-05.53.38:947][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-05.53.38:947][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-05.53.38:949][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-05.53.38:969][935]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-05.53.38:969][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-05.53.38:969][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-05.53.38:969][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-05.53.38:970][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.27-05.53.38:970][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2024.05.27-05.53.38:970][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.27-05.53.38:970][935]LogInit: FAudioDevice initialized with ID 10.
+[2024.05.27-05.53.38:970][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.27-05.53.38:970][935]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2024.05.27-05.53.38:970][935]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.27-05.53.38:972][935]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-05.53.38:973][935]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-07.53.38
+[2024.05.27-05.53.38:974][935]LogWorld: Bringing up level for play took: 0.001025
+[2024.05.27-05.53.38:975][935]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.27-05.53.39:055][935]PIE: Сервер вошел в систему
+[2024.05.27-05.53.39:055][935]PIE: Общее время запуска игры в редакторе: 0,277
+[2024.05.27-05.53.41:696][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 9.0
+[2024.05.27-05.53.42:071][289]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7.0
+[2024.05.27-05.53.42:196][304]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6.0
+[2024.05.27-05.53.43:571][469]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4.0
+[2024.05.27-05.53.45:071][649]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2.0
+[2024.05.27-05.53.45:696][724]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1.0
+[2024.05.27-05.53.46:071][769]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -1.0
+[2024.05.27-05.53.46:071][769]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.53.46:196][784]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -2.0
+[2024.05.27-05.53.46:196][784]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.53.47:196][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -3.0
+[2024.05.27-05.53.47:196][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.53.47:696][964]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -4.0
+[2024.05.27-05.53.47:696][964]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.53.48:072][  9]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -6.0
+[2024.05.27-05.53.48:072][  9]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.53.48:196][ 24]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -7.0
+[2024.05.27-05.53.48:196][ 24]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-05.53.48:322][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-05.53.48:322][ 34]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-05.53.48:322][ 34]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-05.53.48:322][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.53.48:322][ 34]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-05.53.48:322][ 34]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-05.53.48:322][ 34]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-05.53.48:322][ 34]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-05.53.48:324][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-05.53.48:328][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-05.53.48:336][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-05.53.48:337][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.27-05.53.48:337][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.27-05.53.48:338][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.27-05.53.48:341][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-05.53.48:343][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.27-05.53.48:449][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.27-05.57.42:212][698]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.05.27-05.57.42:212][698]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.05.27-06.00.48:104][345]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.05.27-06.00.48:104][345]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.05.27-06.00.53:129][901]Cmd: DELETE
+[2024.05.27-06.00.53:129][901]Cmd: ACTOR DELETE
+[2024.05.27-06.00.53:130][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.27-06.00.53:143][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-06.00.53:149][901]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.05.27-06.00.54:961][ 91]Cmd: EDIT COPY
+[2024.05.27-06.00.56:244][227]Cmd: EDIT PASTE
+[2024.05.27-06.01.16:642][588]Cmd: EDIT COPY
+[2024.05.27-06.01.19:728][954]Cmd: EDIT PASTE
+[2024.05.27-06.01.41:207][430]Cmd: EDIT COPY
+[2024.05.27-06.01.41:520][467]Cmd: EDIT PASTE
+[2024.05.27-06.01.51:445][603]Cmd: EDIT COPY
+[2024.05.27-06.01.51:720][636]Cmd: EDIT PASTE
+[2024.05.27-06.02.08:947][597]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.27-06.02.12:122][949]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.27-06.02.14:568][222]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.27-06.02.31:927][150]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2024.05.27-06.02.36:269][646]LogSlate: Window 'BP_FirstPersonProjectile' being destroyed
+[2024.05.27-06.02.36:273][646]LogSlate: Window 'BP_FirstPersonProjectile' being destroyed
+[2024.05.27-06.02.36:275][646]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.02.36:276][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.02.36:317][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.27-06.02.44:746][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NpcProto/BP_AI_ENEMY.BP_AI_ENEMY
+[2024.05.27-06.03.28:142][774]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-06.03.28:153][774]LogContentBundle: [FirstPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-06.03.28:153][774]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-06.03.28:154][774]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.167 ms (total: 10.105 ms)
+[2024.05.27-06.03.28:160][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-06.03.28:183][774]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.03.28:185][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2024.05.27-06.03.28:185][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002258s)
+[2024.05.27-06.03.28:198][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-06.03.28:200][774]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.03.28:201][774]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-06.03.28:201][774]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.03.28:201][774]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-06.03.28:201][774]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-06.03.28:201][774]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.03.28:201][774]LogWorldPartition: Display: WorldPartition initialize took 710 us (total: 273.130 ms)
+[2024.05.27-06.03.28:201][774]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2024.05.27-06.03.28:257][774]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.27-06.03.28:257][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-06.03.28:257][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-06.03.28:257][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-06.03.28:257][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-06.03.28:257][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-06.03.28:257][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-06.03.28:257][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-06.03.28:257][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-06.03.28:257][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-06.03.28:257][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-06.03.28:257][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-06.03.28:258][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-06.03.28:278][774]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-06.03.28:279][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-06.03.28:279][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-06.03.28:279][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-06.03.28:279][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.27-06.03.28:279][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2024.05.27-06.03.28:280][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.27-06.03.28:280][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.27-06.03.28:280][774]LogInit: FAudioDevice initialized with ID 11.
+[2024.05.27-06.03.28:280][774]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2024.05.27-06.03.28:280][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.27-06.03.28:282][774]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-06.03.28:283][774]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-08.03.28
+[2024.05.27-06.03.28:284][774]LogWorld: Bringing up level for play took: 0.001223
+[2024.05.27-06.03.28:285][774]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.05.27-06.03.28:342][774]PIE: Сервер вошел в систему
+[2024.05.27-06.03.28:343][774]PIE: Общее время запуска игры в редакторе: 0,198
+[2024.05.27-06.03.30:363][  9]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8.0
+[2024.05.27-06.03.31:863][189]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7.0
+[2024.05.27-06.03.33:864][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6.0
+[2024.05.27-06.03.34:363][489]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4.0
+[2024.05.27-06.03.34:364][489]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3.0
+[2024.05.27-06.03.34:864][549]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2.0
+[2024.05.27-06.03.35:363][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.0
+[2024.05.27-06.03.35:363][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-06.03.35:364][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -1.0
+[2024.05.27-06.03.35:364][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-06.03.35:864][669]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -2.0
+[2024.05.27-06.03.35:864][669]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-06.03.36:364][729]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -3.0
+[2024.05.27-06.03.36:364][729]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] You lost.
+[2024.05.27-06.03.39:528][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.03.39:528][103]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.03.39:528][103]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.03.39:528][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.03.39:528][103]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-06.03.39:528][103]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.03.39:528][103]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.03.39:528][103]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.03.39:541][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-06.03.39:545][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.03.39:556][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.03.39:556][103]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.27-06.03.39:556][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.27-06.03.39:557][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.27-06.03.39:561][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.03.39:562][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.27-06.03.39:713][104]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.05.27-06.05.03:209][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.27-06.05.03:217][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NW/Z0G4IES93FJ4CI9EK0HGWS_Auto4
+[2024.05.27-06.05.03:217][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Z0G4IES93FJ4CI9EK0HGWS_Auto4ADA4AB4E40B0C825D95BE8AFBB3BE6E1.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NW/Z0G4IES93FJ4CI9EK0HGWS_Auto4.uasset'
+[2024.05.27-06.05.03:218][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto4
+[2024.05.27-06.05.03:218][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/EAHCBN229IT8APJO305AH5_Auto43C3BFEE3434BEA5B2019ED9334FA251A.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto4.uasset'
+[2024.05.27-06.05.03:220][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto4
+[2024.05.27-06.05.03:220][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/W1SXRCM1KAKBJOIZDLHZ47_Auto4D62EEF3449B4C635815CF08E440DF078.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto4.uasset'
+[2024.05.27-06.05.03:223][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8H/1RG9TZ4WLMFYTU06W47WCS_Auto4
+[2024.05.27-06.05.03:223][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/1RG9TZ4WLMFYTU06W47WCS_Auto4DDE8D54D49529EE00BA062B7863726C2.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8H/1RG9TZ4WLMFYTU06W47WCS_Auto4.uasset'
+[2024.05.27-06.05.03:224][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/10/4PCL5WXC4IJDAVI7WOQ095_Auto4
+[2024.05.27-06.05.03:224][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/4PCL5WXC4IJDAVI7WOQ095_Auto44A88A374412D896B0C19A7B77CCD70FF.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/10/4PCL5WXC4IJDAVI7WOQ095_Auto4.uasset'
+[2024.05.27-06.05.03:225][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JI/M7GAW92VETZ204LETD1RI9_Auto4
+[2024.05.27-06.05.03:225][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/M7GAW92VETZ204LETD1RI9_Auto4E2156DBF4FBA16982139FDABE53BB443.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JI/M7GAW92VETZ204LETD1RI9_Auto4.uasset'
+[2024.05.27-06.05.03:228][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XA/S1ITJKQ00KAQLYLXV67KLJ_Auto4
+[2024.05.27-06.05.03:228][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/S1ITJKQ00KAQLYLXV67KLJ_Auto4D7BFAB244D3847BB232541B3C308E6FE.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XA/S1ITJKQ00KAQLYLXV67KLJ_Auto4.uasset'
+[2024.05.27-06.05.03:229][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QX/ACK5X8GNN8DHXZ3QLJBX05_Auto4
+[2024.05.27-06.05.03:229][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/ACK5X8GNN8DHXZ3QLJBX05_Auto45BAA39FC400A6613554CADB82B1A3C93.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QX/ACK5X8GNN8DHXZ3QLJBX05_Auto4.uasset'
+[2024.05.27-06.05.03:229][769]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.032
+[2024.05.27-06.05.03:229][769]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.05.27-06.05.03:230][769]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NpcProto/BP_AI_ENEMY] ([2] browsable assets)...
+[2024.05.27-06.05.03:266][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NpcProto/BP_AI_ENEMY.BP_AI_ENEMY]
+[2024.05.27-06.05.03:266][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/BP_AI_ENEMY]
+[2024.05.27-06.05.03:273][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NpcProto/BP_AI_ENEMY_Auto4
+[2024.05.27-06.05.03:273][769]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BP_AI_ENEMY_Auto44664854B4A94F520B0D8A08306CD90B8.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Autosaves/Game/NpcProto/BP_AI_ENEMY_Auto4.uasset'
+[2024.05.27-06.05.03:273][769]LogFileHelpers: Auto-saving content packages took 0.044
+[2024.05.27-06.06.35:526][147]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-06.06.35:539][147]LogContentBundle: [FirstPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-06.06.35:539][147]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-06.06.35:540][147]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.200 ms (total: 11.306 ms)
+[2024.05.27-06.06.35:546][147]LogPlayLevel: [PlayLevel] Compiling BP_AI_ENEMY before play...
+[2024.05.27-06.06.35:635][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.27-06.06.35:644][147]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (1 blueprints)
+[2024.05.27-06.06.35:644][147]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.06.35:646][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001841s)
+[2024.05.27-06.06.35:646][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.001863s)
+[2024.05.27-06.06.35:657][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.27-06.06.35:658][147]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.06.35:658][147]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-06.06.35:658][147]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.06.35:658][147]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-06.06.35:658][147]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-06.06.35:659][147]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.06.35:659][147]LogWorldPartition: Display: WorldPartition initialize took 850 us (total: 273.981 ms)
+[2024.05.27-06.06.35:659][147]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2024.05.27-06.06.35:693][147]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.27-06.06.35:693][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-06.06.35:693][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-06.06.35:693][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-06.06.35:693][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-06.06.35:693][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-06.06.35:693][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-06.06.35:693][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-06.06.35:693][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-06.06.35:693][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-06.06.35:693][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-06.06.35:693][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-06.06.35:695][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-06.06.35:714][147]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-06.06.35:714][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-06.06.35:714][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-06.06.35:714][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-06.06.35:715][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.27-06.06.35:715][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2024.05.27-06.06.35:716][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.27-06.06.35:716][147]LogInit: FAudioDevice initialized with ID 12.
+[2024.05.27-06.06.35:716][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.27-06.06.35:716][147]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2024.05.27-06.06.35:716][147]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.27-06.06.35:718][147]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-06.06.35:719][147]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-08.06.35
+[2024.05.27-06.06.35:719][147]LogWorld: Bringing up level for play took: 0.001138
+[2024.05.27-06.06.35:720][147]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.27-06.06.35:767][147]PIE: Сервер вошел в систему
+[2024.05.27-06.06.35:768][147]PIE: Общее время запуска игры в редакторе: 0,239
+[2024.05.27-06.06.39:301][560]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8.0
+[2024.05.27-06.06.40:302][680]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6.0
+[2024.05.27-06.06.44:616][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.06.44:616][195]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.06.44:616][195]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.06.44:617][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.06.44:617][195]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-06.06.44:617][195]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.06.44:617][195]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.06.44:617][195]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.06.44:620][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-06.06.44:624][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.06.44:636][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.06.44:636][195]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.27-06.06.44:636][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.27-06.06.44:637][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.27-06.06.44:641][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-06.06.44:750][196]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.27-06.06.51:276][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.27-06.07.05:664][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-06.07.28:917][186]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.05.27-06.07.28:917][186]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.05.27-06.07.28:918][186]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.05.27-06.07.29:866][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.27-06.07.29:874][296]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2024.05.27-06.07.29:879][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.05.27-06.07.29:879][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.05.27-06.07.29:881][296]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE40111A89F901_1077984221
+[2024.05.27-06.07.35:346][868]Cmd: EDIT COPY
+[2024.05.27-06.07.35:736][914]Cmd: EDIT PASTE
+[2024.05.27-06.07.38:373][219]Cmd: EDIT PASTE
+[2024.05.27-06.07.41:130][542]Cmd: EDIT PASTE
+[2024.05.27-06.07.49:578][489]Cmd: TRANSACTION UNDO
+[2024.05.27-06.07.49:578][489]LogEditorTransaction: Undo Переместить элементы
+[2024.05.27-06.07.49:937][500]Cmd: TRANSACTION UNDO
+[2024.05.27-06.07.49:937][500]LogEditorTransaction: Undo Переместить элементы
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: ================================================
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Total job queries 318, among them cache hits 72 (22.64%), DDC hits 214 (67.30%), Duplicates 5 (1.57%)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Tracking 241 distinct input hashes that result in 196 distinct outputs (81.33%)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: RAM used: 6,30 MiB of 1,60 GiB budget. Usage: 0.38%
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Shaders Compiled: 27
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Average time worker was idle: 490.44 s
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.56 s
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.31 s
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Job life time (pending + execution): average 0.64 s, max 1.40
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Shader code size: average 33,76 KiB, min 27,727 KiB, max 40,039 KiB
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.82 s
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Average processing rate: 4.64 jobs/sec
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Total thread time: 6,639 s
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Total thread preprocess time: 3,044 s
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Percentage time preprocessing: 45.85%
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Effective parallelization: 1.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.29 sec, max 0.38 sec, min 0.24 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.25 sec, max 0.29 sec, min 0.23 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.46% of total time (compiled    8 times, average 0.29 sec, max 0.38 sec, min 0.24 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.82% of total time (compiled    4 times, average 0.25 sec, max 0.29 sec, min 0.23 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.21% of total time (compiled    5 times, average 0.18 sec, max 0.21 sec, min 0.15 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.07% of total time (compiled    4 times, average 0.18 sec, max 0.21 sec, min 0.16 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display:                                                  FHitProxyPS - 4.43% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: === Material stats ===
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Materials Translated:    134
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Material Translation Only: 0.03 s (21%)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: Material Cache Hits: 29 (22%)
+[2024.05.27-06.08.21:587][673]LogShaderCompilers: Display: ================================================
+[2024.05.27-06.08.22:886][829]Cmd: EDIT COPY
+[2024.05.27-06.08.23:137][857]Cmd: EDIT PASTE
+[2024.05.27-06.08.25:955][161]Cmd: EDIT PASTE
+[2024.05.27-06.08.33:452][ 15]Cmd: EDIT PASTE
+[2024.05.27-06.08.36:803][374]Cmd: EDIT PASTE
+[2024.05.27-06.08.48:339][613]Cmd: EDIT COPY
+[2024.05.27-06.08.48:621][646]Cmd: EDIT PASTE
+[2024.05.27-06.08.57:427][577]Cmd: EDIT COPY
+[2024.05.27-06.08.57:669][606]Cmd: EDIT PASTE
+[2024.05.27-06.09.16:902][734]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-06.09.16:910][734]LogContentBundle: [FirstPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-06.09.16:910][734]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-06.09.16:913][734]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.462 ms (total: 14.768 ms)
+[2024.05.27-06.09.16:915][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-06.09.16:915][734]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.09.16:919][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003551s)
+[2024.05.27-06.09.16:919][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003573s)
+[2024.05.27-06.09.16:931][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.27-06.09.16:935][734]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.09.16:936][734]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-06.09.16:936][734]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.09.16:936][734]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-06.09.16:936][734]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-06.09.16:937][734]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.09.16:937][734]LogWorldPartition: Display: WorldPartition initialize took 1.456 ms (total: 275.437 ms)
+[2024.05.27-06.09.16:937][734]LogPlayLevel: PIE: World Init took: (0.002193s)
+[2024.05.27-06.09.16:963][734]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.27-06.09.16:963][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-06.09.16:963][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-06.09.16:963][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-06.09.16:963][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-06.09.16:963][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-06.09.16:963][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-06.09.16:963][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-06.09.16:963][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-06.09.16:963][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-06.09.16:963][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-06.09.16:963][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-06.09.16:964][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-06.09.16:983][734]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-06.09.16:983][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-06.09.16:983][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-06.09.16:983][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-06.09.16:984][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.27-06.09.16:984][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2024.05.27-06.09.16:985][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.27-06.09.16:985][734]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.27-06.09.16:985][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.27-06.09.16:985][734]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2024.05.27-06.09.16:985][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.27-06.09.16:987][734]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-06.09.16:989][734]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-08.09.16
+[2024.05.27-06.09.16:989][734]LogWorld: Bringing up level for play took: 0.001970
+[2024.05.27-06.09.16:990][734]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.05.27-06.09.17:017][734]PIE: Сервер вошел в систему
+[2024.05.27-06.09.17:018][734]PIE: Общее время запуска игры в редакторе: 0,112
+[2024.05.27-06.09.27:143][941]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 23.0
+[2024.05.27-06.09.28:143][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 21.0
+[2024.05.27-06.09.32:859][627]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 20.0
+[2024.05.27-06.09.33:359][687]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 19.0
+[2024.05.27-06.09.33:859][747]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 18.0
+[2024.05.27-06.09.34:359][807]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 17.0
+[2024.05.27-06.09.34:860][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 16.0
+[2024.05.27-06.09.35:360][927]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 15.0
+[2024.05.27-06.09.35:860][987]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 14.0
+[2024.05.27-06.10.45:498][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.10.45:498][338]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.10.45:498][338]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.10.45:498][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.10.45:498][338]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-06.10.45:498][338]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.10.45:498][338]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.10.45:498][338]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.10.45:502][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-06.10.45:505][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.10.45:515][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.10.45:516][338]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.27-06.10.45:516][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.27-06.10.45:517][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.27-06.10.45:520][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.10.45:522][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-06.10.45:611][339]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.05.27-06.13.59:320][294]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.05.27-06.13.59:320][294]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.05.27-06.15.35:060][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.27-06.15.37:046][321]LogSlate: Window 'Сохранять контент' being destroyed
+[2024.05.27-06.15.37:062][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-06.15.37:098][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.27-06.15.37:110][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.27-06.15.37:118][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.27-06.15.37:119][321]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NpcProto/BP_AI_ENEMY] ([2] browsable assets)...
+[2024.05.27-06.15.37:162][321]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NpcProto/BP_AI_ENEMY.BP_AI_ENEMY]
+[2024.05.27-06.15.37:162][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/BP_AI_ENEMY]
+[2024.05.27-06.15.37:162][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NpcProto/BP_AI_ENEMY" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_AI_ENEMY.uasset" SILENT=true
+[2024.05.27-06.15.37:168][321]LogSavePackage: Moving output files for package: /Game/NpcProto/BP_AI_ENEMY
+[2024.05.27-06.15.37:169][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BP_AI_ENEMY979DEB3A4E16C32E70FBDFB34A6828B9.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/BP_AI_ENEMY.uasset'
+[2024.05.27-06.15.37:171][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8H/1RG9TZ4WLMFYTU06W47WCS
+[2024.05.27-06.15.37:171][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/1RG9TZ4WLMFYTU06W47WCS255357284AA71C06D8F43ABDBD36FFD0.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8H/1RG9TZ4WLMFYTU06W47WCS.uasset'
+[2024.05.27-06.15.37:172][321]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.05.27-06.15.37:177][321]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.05.27-06.15.37:177][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.05.27-06.15.37:183][321]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.27-06.15.37:184][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BP_FirstPersonCharacterA5F8A8DC482AC83AA7D339BCAA8B2107.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.27-06.15.37:186][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NW/Z0G4IES93FJ4CI9EK0HGWS
+[2024.05.27-06.15.37:186][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Z0G4IES93FJ4CI9EK0HGWS7F7B98E64EE3EE2705CB3B87BBEAC5CF.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NW/Z0G4IES93FJ4CI9EK0HGWS.uasset'
+[2024.05.27-06.15.37:188][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2024.05.27-06.15.37:188][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/EAHCBN229IT8APJO305AH5C3A56C1D49F7E4A53F05F8BE84F85990.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2024.05.27-06.15.37:189][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NpcProto/m4a1_single-kibblesbob-8540445] ([1] browsable assets)...
+[2024.05.27-06.15.37:189][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/m4a1_single-kibblesbob-8540445]
+[2024.05.27-06.15.37:191][321]LogSavePackage: Moving output files for package: /Game/NpcProto/m4a1_single-kibblesbob-8540445
+[2024.05.27-06.15.37:191][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/m4a1_single-kibblesbob-8540445810A27354F986112B506738C5FAEBDF9.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/m4a1_single-kibblesbob-8540445.uasset'
+[2024.05.27-06.15.37:192][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NpcProto/pew-pew-lame-sound-effect] ([1] browsable assets)...
+[2024.05.27-06.15.37:192][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/NpcProto/pew-pew-lame-sound-effect]
+[2024.05.27-06.15.37:192][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NpcProto/pew-pew-lame-sound-effect" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/pew-pew-lame-sound-effect.uasset" SILENT=true
+[2024.05.27-06.15.37:193][321]LogSavePackage: Moving output files for package: /Game/NpcProto/pew-pew-lame-sound-effect
+[2024.05.27-06.15.37:193][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/pew-pew-lame-sound-effectF1F8D8414C3E42183136178EC83EB67B.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/NpcProto/pew-pew-lame-sound-effect.uasset'
+[2024.05.27-06.15.37:195][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2024.05.27-06.15.37:195][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/W1SXRCM1KAKBJOIZDLHZ47B7C671064B46632ED31BAB9B8FDC4279.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2024.05.27-06.15.37:197][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7G/OU5R4QVRZVDMC5L32IS049
+[2024.05.27-06.15.37:197][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/OU5R4QVRZVDMC5L32IS049830A7CE44F707AB38F2A60B58F500902.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7G/OU5R4QVRZVDMC5L32IS049.uasset'
+[2024.05.27-06.15.37:198][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/VL/K2UIM68ZPTCPELEAWGCUQ8
+[2024.05.27-06.15.37:198][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/K2UIM68ZPTCPELEAWGCUQ8F6345CC64D43D373AC064A981C27AE70.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/VL/K2UIM68ZPTCPELEAWGCUQ8.uasset'
+[2024.05.27-06.15.37:200][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9Y/GARA261HD480278N9FLJYL
+[2024.05.27-06.15.37:200][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/GARA261HD480278N9FLJYL3FEFECBD4476E77C9CF04C8631F865EF.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9Y/GARA261HD480278N9FLJYL.uasset'
+[2024.05.27-06.15.37:202][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/C6/IPNJQEIDRGLD4TPA57RPLC
+[2024.05.27-06.15.37:202][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/IPNJQEIDRGLD4TPA57RPLCE6834DEA4520DA6A50609592D437E225.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/C6/IPNJQEIDRGLD4TPA57RPLC.uasset'
+[2024.05.27-06.15.37:203][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/J5/MGL6233MT0BKISCZOV65JZ
+[2024.05.27-06.15.37:203][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/MGL6233MT0BKISCZOV65JZ13FFED714D42DA9655017F8A87EB7F3B.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/J5/MGL6233MT0BKISCZOV65JZ.uasset'
+[2024.05.27-06.15.37:205][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/CW/H8XZRJ7WGQQYOIU52LU3ZX
+[2024.05.27-06.15.37:205][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/H8XZRJ7WGQQYOIU52LU3ZXEB0D2A704E079F028FBFB3B5C341C434.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/CW/H8XZRJ7WGQQYOIU52LU3ZX.uasset'
+[2024.05.27-06.15.37:207][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LD/C5IOEA6HU8PLVODWBQGLYM
+[2024.05.27-06.15.37:207][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/C5IOEA6HU8PLVODWBQGLYMDBAC8B1D4C3750A288C46AB558634460.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LD/C5IOEA6HU8PLVODWBQGLYM.uasset'
+[2024.05.27-06.15.37:208][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/5F/AQ9BV55WW06FBG5Z5UXGDG
+[2024.05.27-06.15.37:208][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/AQ9BV55WW06FBG5Z5UXGDGB74C49F848BB01CC505F51A8BF7CB7E9.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/5F/AQ9BV55WW06FBG5Z5UXGDG.uasset'
+[2024.05.27-06.15.37:210][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VV/SK7QUJYV6MI12F1A1HV7PD
+[2024.05.27-06.15.37:210][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/SK7QUJYV6MI12F1A1HV7PD21EE4D924FD457D31EF3F6847B90B27A.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VV/SK7QUJYV6MI12F1A1HV7PD.uasset'
+[2024.05.27-06.15.37:211][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/07/EBVPZKFMDRFMFKV3OZR456
+[2024.05.27-06.15.37:212][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/EBVPZKFMDRFMFKV3OZR456EA1CC3064B472FBEA3C663A1E370CC7C.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/07/EBVPZKFMDRFMFKV3OZR456.uasset'
+[2024.05.27-06.15.37:213][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O
+[2024.05.27-06.15.37:213][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/0XWE3RNM2XQC0ST1KXG02O3A5C458E4CEB057D657469835216FFE2.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset'
+[2024.05.27-06.15.37:215][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1E/P78TXCMFA3GB0I3GEU8OW5
+[2024.05.27-06.15.37:215][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/P78TXCMFA3GB0I3GEU8OW52ADC76A74024A042A2B5EB9A26E5DE98.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1E/P78TXCMFA3GB0I3GEU8OW5.uasset'
+[2024.05.27-06.15.37:217][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/WW/JMBOH2Z6YAE4WNXKNESLVR
+[2024.05.27-06.15.37:217][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/JMBOH2Z6YAE4WNXKNESLVR5B4F9C294EA30ADB52610BA83043CE50.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/WW/JMBOH2Z6YAE4WNXKNESLVR.uasset'
+[2024.05.27-06.15.37:219][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7N/BXUVYGIA5KUW3F43I79WER
+[2024.05.27-06.15.37:219][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BXUVYGIA5KUW3F43I79WER1634B7264A4FBC963E65B4B250F06669.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7N/BXUVYGIA5KUW3F43I79WER.uasset'
+[2024.05.27-06.15.37:220][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LE/JG7SA8JAZ3TGG3QF1218IM
+[2024.05.27-06.15.37:220][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/JG7SA8JAZ3TGG3QF1218IM1C16BB1249888E57B84860890A3F2A00.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LE/JG7SA8JAZ3TGG3QF1218IM.uasset'
+[2024.05.27-06.15.37:222][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/AB/KSP39P5DAN22HBUJOJA7OT
+[2024.05.27-06.15.37:222][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/KSP39P5DAN22HBUJOJA7OT74103BC547A99ADA80108DB5CA07FC09.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/AB/KSP39P5DAN22HBUJOJA7OT.uasset'
+[2024.05.27-06.15.37:223][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/AK/OQ3VMHQM5T1V7XTWSX2Q9D
+[2024.05.27-06.15.37:223][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/OQ3VMHQM5T1V7XTWSX2Q9D55FC86F942365B9677DCCBAA943177D8.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/AK/OQ3VMHQM5T1V7XTWSX2Q9D.uasset'
+[2024.05.27-06.15.37:225][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0Z/QNMPL7VQ33Z1WNIVNV4393
+[2024.05.27-06.15.37:225][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/QNMPL7VQ33Z1WNIVNV4393633663E243794F0A3E184A9E8C8C9AD8.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0Z/QNMPL7VQ33Z1WNIVNV4393.uasset'
+[2024.05.27-06.15.37:227][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZQ/9S9BAQTVC9EEZG5UTW3OW5
+[2024.05.27-06.15.37:227][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/9S9BAQTVC9EEZG5UTW3OW503318DCF4991063819E15BB7117E14ED.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZQ/9S9BAQTVC9EEZG5UTW3OW5.uasset'
+[2024.05.27-06.15.37:228][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TW/NCAUXRV56F9086YAK15FIA
+[2024.05.27-06.15.37:228][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/NCAUXRV56F9086YAK15FIAE20B671848A9700516947A8FD6C3F9EA.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TW/NCAUXRV56F9086YAK15FIA.uasset'
+[2024.05.27-06.15.37:230][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BL/331HC63U3CLM72IRNKQ7R3
+[2024.05.27-06.15.37:230][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/331HC63U3CLM72IRNKQ7R330F87FA0454E43374DA79296C10D8FD3.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BL/331HC63U3CLM72IRNKQ7R3.uasset'
+[2024.05.27-06.15.37:231][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/10/4PCL5WXC4IJDAVI7WOQ095
+[2024.05.27-06.15.37:231][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/4PCL5WXC4IJDAVI7WOQ095BB61973C42397657998C6BBD70625163.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/10/4PCL5WXC4IJDAVI7WOQ095.uasset'
+[2024.05.27-06.15.37:233][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TB/BJ0G726CEACJ97A2VPDJD0
+[2024.05.27-06.15.37:233][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/BJ0G726CEACJ97A2VPDJD0F123799E442C764C2B7A99AAFF4E8054.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TB/BJ0G726CEACJ97A2VPDJD0.uasset'
+[2024.05.27-06.15.37:235][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/79/ZC0JL21KJ29M4DE6XQDX95
+[2024.05.27-06.15.37:235][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/ZC0JL21KJ29M4DE6XQDX953E8F8F3F457321B2FF0A2A9FDB6068C4.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/79/ZC0JL21KJ29M4DE6XQDX95.uasset'
+[2024.05.27-06.15.37:237][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J3/H77NDR71JU0AT9GTBU1QP5
+[2024.05.27-06.15.37:237][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/H77NDR71JU0AT9GTBU1QP5294C1ECB4CCFCBC91C75809316D7CD6D.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J3/H77NDR71JU0AT9GTBU1QP5.uasset'
+[2024.05.27-06.15.37:239][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3M/DI34H0RFNWSS31YA3BY9TM
+[2024.05.27-06.15.37:239][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/DI34H0RFNWSS31YA3BY9TM1CC56CAB4E66E853A40128AD57E3869E.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3M/DI34H0RFNWSS31YA3BY9TM.uasset'
+[2024.05.27-06.15.37:240][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0H/09Z4G0W7BYA5LG9FJR1UHB
+[2024.05.27-06.15.37:240][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/09Z4G0W7BYA5LG9FJR1UHB5CA6D77844007C22809AEA8EF08A3B9F.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0H/09Z4G0W7BYA5LG9FJR1UHB.uasset'
+[2024.05.27-06.15.37:242][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/83/GQ6W4MU4A0WBK62GHQJGRG
+[2024.05.27-06.15.37:242][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/GQ6W4MU4A0WBK62GHQJGRGD23FAA6245F742A9E933E7AAA4EFEC1B.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/83/GQ6W4MU4A0WBK62GHQJGRG.uasset'
+[2024.05.27-06.15.37:244][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WS/YGJS5ILZ3EECS6S4QBLK04
+[2024.05.27-06.15.37:244][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/YGJS5ILZ3EECS6S4QBLK0452B044014E922F8444A9C9A578989390.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WS/YGJS5ILZ3EECS6S4QBLK04.uasset'
+[2024.05.27-06.15.37:246][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/UB/MEKPYBGJJYOL28GLNL47A7
+[2024.05.27-06.15.37:246][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/MEKPYBGJJYOL28GLNL47A7DAB2FECA4A7D0B5C2B26BD9FE91BFDF5.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/UB/MEKPYBGJJYOL28GLNL47A7.uasset'
+[2024.05.27-06.15.37:247][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/WU/IRAMVK0KZG9CEAG9AKI62D
+[2024.05.27-06.15.37:247][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/IRAMVK0KZG9CEAG9AKI62D38AEDB5C412660820597EB9A546218DE.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/WU/IRAMVK0KZG9CEAG9AKI62D.uasset'
+[2024.05.27-06.15.37:249][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/92/4CVIWG3PNU2CB5LQB1J3RZ
+[2024.05.27-06.15.37:249][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/4CVIWG3PNU2CB5LQB1J3RZD72D9E9B49F75D2134226192FDE16EC5.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/92/4CVIWG3PNU2CB5LQB1J3RZ.uasset'
+[2024.05.27-06.15.37:250][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QX/ACK5X8GNN8DHXZ3QLJBX05
+[2024.05.27-06.15.37:251][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/ACK5X8GNN8DHXZ3QLJBX058646BEC84C1132513048C6937F6C9FB2.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QX/ACK5X8GNN8DHXZ3QLJBX05.uasset'
+[2024.05.27-06.15.37:252][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W6/YQYBAQQ27XW1ZS0BX3L4XK
+[2024.05.27-06.15.37:252][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/YQYBAQQ27XW1ZS0BX3L4XK976D3D1642EA7C933420A8A69AA730F9.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W6/YQYBAQQ27XW1ZS0BX3L4XK.uasset'
+[2024.05.27-06.15.37:254][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/BV/HL3958HFJLKR6IJESYE93S
+[2024.05.27-06.15.37:254][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/HL3958HFJLKR6IJESYE93S9079AE9848CC7DFBDA37C0B4886BFCC8.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/BV/HL3958HFJLKR6IJESYE93S.uasset'
+[2024.05.27-06.15.37:255][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CH/WEKUR5BSN5MRM2PG80BY88
+[2024.05.27-06.15.37:255][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/WEKUR5BSN5MRM2PG80BY888A1058504774BB27BAC78CB8F5DBA1D2.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CH/WEKUR5BSN5MRM2PG80BY88.uasset'
+[2024.05.27-06.15.37:257][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/MH/EOANVZMY4UXKWH26ENH8GL
+[2024.05.27-06.15.37:257][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/EOANVZMY4UXKWH26ENH8GL83F251C942A97BE9C8CB53BD4E46A9D9.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/MH/EOANVZMY4UXKWH26ENH8GL.uasset'
+[2024.05.27-06.15.37:259][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/O8/2WELKIV5FCOB3JVJCSQQ88
+[2024.05.27-06.15.37:259][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/2WELKIV5FCOB3JVJCSQQ88F0C9F2F24AB67BD745FCE78464EE39BD.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/O8/2WELKIV5FCOB3JVJCSQQ88.uasset'
+[2024.05.27-06.15.37:261][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/D9/RE7SJQ0ON7A1BD4OWDF6VM
+[2024.05.27-06.15.37:261][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/RE7SJQ0ON7A1BD4OWDF6VMB40A61CC482D4136411C64B8E8EA8B01.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/D9/RE7SJQ0ON7A1BD4OWDF6VM.uasset'
+[2024.05.27-06.15.37:262][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/65/CG5ZVRPLNDU8HMJ0S9NHZY
+[2024.05.27-06.15.37:262][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/CG5ZVRPLNDU8HMJ0S9NHZYB051E4834A15275C6C6CF6971A659FC5.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/65/CG5ZVRPLNDU8HMJ0S9NHZY.uasset'
+[2024.05.27-06.15.37:264][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BS/O2X0SM2FNSRQEZDYU4I23D
+[2024.05.27-06.15.37:264][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/O2X0SM2FNSRQEZDYU4I23D9B67948346704237F970328C78CC7D10.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BS/O2X0SM2FNSRQEZDYU4I23D.uasset'
+[2024.05.27-06.15.37:265][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2Y/DS83BBFH4LK6DJXJNXJJ6Y
+[2024.05.27-06.15.37:265][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/DS83BBFH4LK6DJXJNXJJ6Y4DE8C8BE4441650759F173A1E39152AC.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2Y/DS83BBFH4LK6DJXJNXJJ6Y.uasset'
+[2024.05.27-06.15.37:267][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/W6/SJHY2IL6NLUM8LCVIKZTJE
+[2024.05.27-06.15.37:267][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/SJHY2IL6NLUM8LCVIKZTJEDDFFD85B48DE58891E8A10994ED5A155.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/W6/SJHY2IL6NLUM8LCVIKZTJE.uasset'
+[2024.05.27-06.15.37:269][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S
+[2024.05.27-06.15.37:269][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/YUZ9741T50O1SYRX90OB0S79D134CC4324EEC1B2F85FB4E76CB56C.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset'
+[2024.05.27-06.15.37:271][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XR/9EJBQ3KOCQEORNQZPRLJZY
+[2024.05.27-06.15.37:271][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/9EJBQ3KOCQEORNQZPRLJZY8AFE1C3144ED4A97641F68B3DF73F545.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XR/9EJBQ3KOCQEORNQZPRLJZY.uasset'
+[2024.05.27-06.15.37:272][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WL/33R9PARKP14PECCW447ITT
+[2024.05.27-06.15.37:272][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/33R9PARKP14PECCW447ITT9D9DBA9E48E82453816465A16EFF10BA.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WL/33R9PARKP14PECCW447ITT.uasset'
+[2024.05.27-06.15.37:274][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/ZG/INT4P7GVG8XRKOHGZK6W66
+[2024.05.27-06.15.37:274][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/INT4P7GVG8XRKOHGZK6W66480389A547051AFC140770A9274A9D7B.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/ZG/INT4P7GVG8XRKOHGZK6W66.uasset'
+[2024.05.27-06.15.37:276][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/TQ/VB2LCOHIZFYR72NJQO4J5Z
+[2024.05.27-06.15.37:276][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/VB2LCOHIZFYR72NJQO4J5Z2723D7E3477B5582C2D00C8786CB7AA9.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/TQ/VB2LCOHIZFYR72NJQO4J5Z.uasset'
+[2024.05.27-06.15.37:277][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/DG/TN047JEZ92SIS29BG9OFPT
+[2024.05.27-06.15.37:277][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/TN047JEZ92SIS29BG9OFPT9623C2C245DE5D7DB0C34C8208050D73.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/DG/TN047JEZ92SIS29BG9OFPT.uasset'
+[2024.05.27-06.15.37:279][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JI/ECFDYJGIG9QKCD6IOATXSU
+[2024.05.27-06.15.37:279][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/ECFDYJGIG9QKCD6IOATXSUD89A0AF54900B3E93F4FD19B691E4E45.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JI/ECFDYJGIG9QKCD6IOATXSU.uasset'
+[2024.05.27-06.15.37:280][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/16/6W8UA27Y54ZDQG63VQ3JC6
+[2024.05.27-06.15.37:280][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/6W8UA27Y54ZDQG63VQ3JC6E94D615E492F4A388A87DEBB20A23C82.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/16/6W8UA27Y54ZDQG63VQ3JC6.uasset'
+[2024.05.27-06.15.37:282][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/MZ/3Z0MLV06CWPV9G15KVD68I
+[2024.05.27-06.15.37:282][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/3Z0MLV06CWPV9G15KVD68IF795CD2144097A540CC5B2A6233EAB0D.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/MZ/3Z0MLV06CWPV9G15KVD68I.uasset'
+[2024.05.27-06.15.37:284][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4B/CFILHR5DCT4G2ECBNK60ZR
+[2024.05.27-06.15.37:284][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/CFILHR5DCT4G2ECBNK60ZRF2EFD3214F505FAF0366EFB8DF4032DF.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4B/CFILHR5DCT4G2ECBNK60ZR.uasset'
+[2024.05.27-06.15.37:285][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/B1/AG9GC8AT4Z7B9B627CS3LD
+[2024.05.27-06.15.37:285][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/AG9GC8AT4Z7B9B627CS3LD09F1EA4544376053E0D8189F6E7CD6B3.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/B1/AG9GC8AT4Z7B9B627CS3LD.uasset'
+[2024.05.27-06.15.37:288][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX
+[2024.05.27-06.15.37:288][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/HL558UUAGCS9HVVOI0S7PX3E45664A470EF994D129738CA8015527.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset'
+[2024.05.27-06.15.37:290][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XI/LURXU7PZQ7GTBS849U4A9G
+[2024.05.27-06.15.37:290][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/LURXU7PZQ7GTBS849U4A9GB421B37C4113EB3EE2F413A1A2E3AEC4.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XI/LURXU7PZQ7GTBS849U4A9G.uasset'
+[2024.05.27-06.15.37:291][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/7T/Z392F8Z7DOFRVLSZX68RND
+[2024.05.27-06.15.37:291][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/Z392F8Z7DOFRVLSZX68RND7D1F6F2049344AB11AA6A2A560F0D0D5.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/7T/Z392F8Z7DOFRVLSZX68RND.uasset'
+[2024.05.27-06.15.37:294][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FE/DFLNPN3OA1XX741YBXS2WT
+[2024.05.27-06.15.37:294][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/DFLNPN3OA1XX741YBXS2WTE245721A4EE4577D311B98A041A965F8.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FE/DFLNPN3OA1XX741YBXS2WT.uasset'
+[2024.05.27-06.15.37:295][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EO/2I4HBVX3ULYCVO91537HU4
+[2024.05.27-06.15.37:295][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/2I4HBVX3ULYCVO91537HU40998CF43459A81D52AB607A653E41DF6.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EO/2I4HBVX3ULYCVO91537HU4.uasset'
+[2024.05.27-06.15.37:297][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/14/MCOMXGI12ND1RXPH4UI7HO
+[2024.05.27-06.15.37:297][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/MCOMXGI12ND1RXPH4UI7HOF588C4AE455456E38A2A01AA0A145D1D.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/14/MCOMXGI12ND1RXPH4UI7HO.uasset'
+[2024.05.27-06.15.37:299][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/QU/UI2WXZ4BV403PYP5Y7O6MC
+[2024.05.27-06.15.37:299][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/UI2WXZ4BV403PYP5Y7O6MC411EC3824A7E925BB90802B0D252B92E.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/QU/UI2WXZ4BV403PYP5Y7O6MC.uasset'
+[2024.05.27-06.15.37:300][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JY/P7UKYR4SESHAHJPJ5JBKLO
+[2024.05.27-06.15.37:300][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/P7UKYR4SESHAHJPJ5JBKLO256C8077489FEA27935F8AB26BB654AD.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JY/P7UKYR4SESHAHJPJ5JBKLO.uasset'
+[2024.05.27-06.15.37:301][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/42/ZZOUK0ZEH9SGA98AKIPLFI
+[2024.05.27-06.15.37:301][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/ZZOUK0ZEH9SGA98AKIPLFIBBA82F244CEC973ED36518AFF62DF27B.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/42/ZZOUK0ZEH9SGA98AKIPLFI.uasset'
+[2024.05.27-06.15.37:303][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/L8/QP47DM8PLZXPJSYLAJDOGF
+[2024.05.27-06.15.37:303][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/QP47DM8PLZXPJSYLAJDOGFE9C276E64C08EB22F5715DA2537A0C12.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/L8/QP47DM8PLZXPJSYLAJDOGF.uasset'
+[2024.05.27-06.15.37:305][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/AA/MNIVH9SY28FWOC636BU7LM
+[2024.05.27-06.15.37:305][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/MNIVH9SY28FWOC636BU7LM5C984472484BA20F6FB8C3B69511BF8D.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/AA/MNIVH9SY28FWOC636BU7LM.uasset'
+[2024.05.27-06.15.37:306][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JI/M7GAW92VETZ204LETD1RI9
+[2024.05.27-06.15.37:306][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/M7GAW92VETZ204LETD1RI9F75CD5164CA4CB42EA00A7956CDA99C8.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JI/M7GAW92VETZ204LETD1RI9.uasset'
+[2024.05.27-06.15.37:308][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4X/YOO8KVDXJKVCTS81EWLB0C
+[2024.05.27-06.15.37:308][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/YOO8KVDXJKVCTS81EWLB0C02800F5E40D605C967C28180E53BC197.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4X/YOO8KVDXJKVCTS81EWLB0C.uasset'
+[2024.05.27-06.15.37:310][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/3Q/A6MYVH9T90R30PL0PYR7XZ
+[2024.05.27-06.15.37:310][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/A6MYVH9T90R30PL0PYR7XZE5F6FCC84555E699E11B7D852A3AEFA7.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/3Q/A6MYVH9T90R30PL0PYR7XZ.uasset'
+[2024.05.27-06.15.37:311][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GG/99KDRTV0MPBSP03M6I1561
+[2024.05.27-06.15.37:311][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/99KDRTV0MPBSP03M6I15618CA0E7C44C72571B3C5972ADCC8D5AAD.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GG/99KDRTV0MPBSP03M6I1561.uasset'
+[2024.05.27-06.15.37:313][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/D6/O8BIE3YN2QWT8V584LHQ5H
+[2024.05.27-06.15.37:313][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/O8BIE3YN2QWT8V584LHQ5HCC05EE894D87B80DD9223EA343500375.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/D6/O8BIE3YN2QWT8V584LHQ5H.uasset'
+[2024.05.27-06.15.37:315][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/KJ/PV2O5Q1H8I5RPHCOX5V9Z5
+[2024.05.27-06.15.37:315][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/PV2O5Q1H8I5RPHCOX5V9Z59A45B10F47CBA51F8939D6A83B18A9BA.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/KJ/PV2O5Q1H8I5RPHCOX5V9Z5.uasset'
+[2024.05.27-06.15.37:317][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YL/P7ENMJGQNITFHZ2M1E4FYE
+[2024.05.27-06.15.37:317][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/P7ENMJGQNITFHZ2M1E4FYECB9C26E74429E616F3D111A956DEFFC4.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YL/P7ENMJGQNITFHZ2M1E4FYE.uasset'
+[2024.05.27-06.15.37:319][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/5D/8T8UZQWCLB46ICO5GXX0QJ
+[2024.05.27-06.15.37:319][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/8T8UZQWCLB46ICO5GXX0QJ38F90F154C637F0B6765F39E8ECE0153.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/5D/8T8UZQWCLB46ICO5GXX0QJ.uasset'
+[2024.05.27-06.15.37:321][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XA/S1ITJKQ00KAQLYLXV67KLJ
+[2024.05.27-06.15.37:321][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/S1ITJKQ00KAQLYLXV67KLJC103AD4A432FE0AD0B0F868109960BA3.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XA/S1ITJKQ00KAQLYLXV67KLJ.uasset'
+[2024.05.27-06.15.37:322][321]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/PT/IPXVGLQJ7R6KVQFGIR7KW8
+[2024.05.27-06.15.37:322][321]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/IPXVGLQJ7R6KVQFGIR7KW8B1BA673A437AD1B71DFF2E859181C57D.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/PT/IPXVGLQJ7R6KVQFGIR7KW8.uasset'
+[2024.05.27-06.15.37:357][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.740 ms (total: 1.03 sec)
+[2024.05.27-06.15.37:381][321]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/mainmenumap.mainmenumap
+[2024.05.27-06.15.37:381][321]Cmd: MAP LOAD FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.27-06.15.37:435][321]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.15.37:435][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.15.37:435][321]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.05.27-06.15.37:436][321]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.15.37:436][321]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.15.37:436][321]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.15.37:447][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.15.37:450][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.27-06.15.37:452][321]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.15.37:452][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.15.37:462][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.27-06.15.37:471][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.27-06.15.37:479][321]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2024.05.27-06.15.37:480][321]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.15.37:504][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.27-06.15.37:515][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-06.15.37:519][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.27-06.15.37:519][321]MapCheck: Проверка карты завершена: 0 ошибок, 0 предупреждений, выполнена за 0,079 мс.
+[2024.05.27-06.15.37:591][321]LogContentValidation: Display: Starting to validate 83 assets
+[2024.05.27-06.15.37:591][321]LogContentValidation: Enabled validators:
+[2024.05.27-06.15.37:591][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-06.15.37:591][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-06.15.37:591][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-06.15.37:591][321]LogContentValidation: Display: Validating asset /Game/NpcProto/BP_AI_ENEMY.BP_AI_ENEMY
+[2024.05.27-06.15.37:591][321]AssetCheck: /Game/NpcProto/BP_AI_ENEMY Проверка ресурса
+[2024.05.27-06.15.37:591][321]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.27-06.15.37:591][321]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Проверка ресурса
+[2024.05.27-06.15.37:591][321]LogContentValidation: Display: Validating asset /Game/NpcProto/m4a1_single-kibblesbob-8540445.m4a1_single-kibblesbob-8540445
+[2024.05.27-06.15.37:591][321]AssetCheck: /Game/NpcProto/m4a1_single-kibblesbob-8540445 Проверка ресурса
+[2024.05.27-06.15.37:591][321]LogContentValidation: Display: Validating asset /Game/NpcProto/pew-pew-lame-sound-effect.pew-pew-lame-sound-effect
+[2024.05.27-06.15.37:591][321]AssetCheck: /Game/NpcProto/pew-pew-lame-sound-effect Проверка ресурса
+[2024.05.27-06.15.42:584][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.27-06.15.42:587][900]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/mainmenumap.mainmenumap
+[2024.05.27-06.15.42:587][900]Cmd: MAP LOAD FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.27-06.15.42:634][900]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.15.42:634][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.15.42:634][900]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.15.42:634][900]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.15.42:644][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.15.42:645][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.27-06.15.42:653][900]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2024.05.27-06.15.42:653][900]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.15.42:696][900]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.27-06.15.42:709][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.27-06.15.42:712][900]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.27-06.15.42:712][900]MapCheck: Проверка карты завершена: 0 ошибок, 0 предупреждений, выполнена за 0,081 мс.
+[2024.05.27-06.15.43:889][ 37]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-06.15.43:905][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-06.15.43:933][ 37]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_mainmenumap
+[2024.05.27-06.15.43:934][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000788s)
+[2024.05.27-06.15.43:934][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/mainmenumap.mainmenumap to /Game/Maps/UEDPIE_0_mainmenumap.mainmenumap (0.000816s)
+[2024.05.27-06.15.43:945][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.27-06.15.43:947][ 37]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.15.43:948][ 37]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2024.05.27-06.15.43:995][ 37]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.05.27-06.15.43:995][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-06.15.43:995][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-06.15.43:995][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-06.15.43:995][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-06.15.43:995][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-06.15.43:995][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-06.15.43:995][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-06.15.43:995][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-06.15.43:995][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-06.15.43:995][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-06.15.43:995][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-06.15.43:997][ 37]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-06.15.44:016][ 37]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-06.15.44:016][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-06.15.44:016][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-06.15.44:016][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-06.15.44:017][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.05.27-06.15.44:017][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2024.05.27-06.15.44:018][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.05.27-06.15.44:018][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.05.27-06.15.44:018][ 37]LogInit: FAudioDevice initialized with ID 14.
+[2024.05.27-06.15.44:018][ 37]LogAudio: Display: Audio Device (ID: 14) registered with world 'mainmenumap'.
+[2024.05.27-06.15.44:018][ 37]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.27-06.15.44:020][ 37]LogLoad: Game class is 'Menugamemode_C'
+[2024.05.27-06.15.44:020][ 37]LogWorld: Bringing World /Game/Maps/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2024.05.27-08.15.44
+[2024.05.27-06.15.44:020][ 37]LogWorld: Bringing up level for play took: 0.000213
+[2024.05.27-06.15.44:021][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.05.27-06.15.44:064][ 37]PIE: Сервер вошел в систему
+[2024.05.27-06.15.44:065][ 37]PIE: Общее время запуска игры в редакторе: 0,173
+[2024.05.27-06.15.49:549][690]LogLongPackageNames: Warning: Can't Find URL: Map_Main: . Invalidating and reverting to Default URL.
+[2024.05.27-06.15.49:550][690]LogLongPackageNames: Warning: Can't Find URL: Map_Main: . Invalidating and reverting to Default URL.
+[2024.05.27-06.15.49:550][690]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2024.05.27-06.15.49:550][690]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.15.49:550][690]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap"
+[2024.05.27-06.15.49:550][690]LogNet: Warning: Travel Failure: [InvalidURL]: Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.15.49:552][690]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2024.05.27-06.15.49:552][690]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap"
+[2024.05.27-06.15.49:552][690]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.15.49:552][690]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2024.05.27-06.15.49:556][691]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap?closed"
+[2024.05.27-06.15.49:556][691]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2024.05.27-06.15.49:556][691]LogNet: Connection failed; returning to Entry
+[2024.05.27-06.15.49:556][691]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2024.05.27-06.15.49:556][691]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_mainmenumap
+[2024.05.27-06.15.49:556][691]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.15.49:556][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.15.49:557][691]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.15.49:557][691]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.15.49:592][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.15.49:594][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.27-06.15.49:626][691]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.05.27-06.15.49:626][691]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.15.49:627][691]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-06.15.49:627][691]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.15.49:627][691]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.05.27-06.15.49:627][691]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-06.15.49:629][691]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-06.15.49:631][691]LogStreaming: Display: FlushAsyncLoading(35): 88 QueuedPackages, 0 AsyncPackages
+[2024.05.27-06.15.49:689][691]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 59.578 ms (total: 74.346 ms)
+[2024.05.27-06.15.49:690][691]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.15.49:690][691]LogWorldPartition: Display: WorldPartition initialize took 62.750 ms (total: 338.188 ms)
+[2024.05.27-06.15.49:690][691]LogPlayLevel: PIE: World Init took: (0.063403s)
+[2024.05.27-06.15.49:690][691]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-06.15.49:694][691]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-08.15.49
+[2024.05.27-06.15.49:694][691]LogWorld: Bringing up level for play took: 0.003835
+[2024.05.27-06.15.49:696][691]LogLoad: Took 0.138939 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.05.27-06.15.49:696][691]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.15.49:707][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.27-06.15.52:899][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.15.52:899][ 66]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.15.52:899][ 66]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.15.52:899][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.15.52:900][ 66]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-06.15.52:900][ 66]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.15.52:900][ 66]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.15.52:900][ 66]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.15.52:902][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-06.15.52:906][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.15.52:914][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.15.52:914][ 66]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.27-06.15.52:914][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.27-06.15.52:915][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.27-06.15.52:922][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.27-06.15.52:988][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.05.27-06.16.35:541][507]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.05.27-06.16.35:541][507]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.05.27-06.16.50:109][130]LogInterchangeEngine: [Ожидание] Импорт
+[2024.05.27-06.16.50:109][130]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Ether/Downloads/maxresdefault.jpg]
+[2024.05.27-06.16.50:119][130]LogInterchangeImport: JPEG file [C:/Users/Ether/Downloads/maxresdefault.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2024.05.27-06.16.50:121][130]LogInterchangeEngine: [Ожидание] Импорт
+[2024.05.27-06.16.50:442][131]LogTexture: Display: Создание текстур: /Game/Maps/UI/maxresdefault.maxresdefault (TFO_AutoDXT, 1280x720 x1x1x1) (требуемый объём памяти: 118.65625 МБайт), Скорость кодирования: Fast
+[2024.05.27-06.16.50:777][132]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Ether/Downloads/maxresdefault.jpg]
+[2024.05.27-06.16.50:781][132]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.05.27-06.16.50:794][132]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2024.05.27-06.16.55:147][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-06.16.58:504][544]LogSlate: Window 'Заменить ссылки?' being destroyed
+[2024.05.27-06.16.58:508][544]Message dialog closed, result: Ok, title: Заменить ссылки?, text: Это приведёт к замене всех ссылок с удаляемых ресурсов на maxresdefault. Затем они будут удалены.
+
+Подтверждаете?
+[2024.05.27-06.16.58:508][544]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.27-06.16.58:532][544]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.16.58:532][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.16.58:561][544]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.05.27-06.16.58:577][544]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.27-06.16.58:577][544]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.16.58:577][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.16.58:826][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-06.17.00:044][544]LogSlate: Window 'Сохранять контент' being destroyed
+[2024.05.27-06.17.00:051][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-06.17.00:078][544]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Maps/UI/Mainmenu] ([2] browsable assets)...
+[2024.05.27-06.17.00:081][544]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Maps/UI/Mainmenu.Mainmenu]
+[2024.05.27-06.17.00:082][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/UI/Mainmenu]
+[2024.05.27-06.17.00:082][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/UI/Mainmenu" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/UI/Mainmenu.uasset" SILENT=true
+[2024.05.27-06.17.00:086][544]LogSavePackage: Moving output files for package: /Game/Maps/UI/Mainmenu
+[2024.05.27-06.17.00:086][544]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/MainmenuD711DDDD41F586D7593F7DB8E2A3383A.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/UI/Mainmenu.uasset'
+[2024.05.27-06.17.00:087][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/UI/WechatIMG781] ([1] browsable assets)...
+[2024.05.27-06.17.00:087][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/UI/WechatIMG781]
+[2024.05.27-06.17.00:087][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/UI/WechatIMG781" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/UI/WechatIMG781.uasset" SILENT=true
+[2024.05.27-06.17.00:088][544]LogSavePackage: Moving output files for package: /Game/Maps/UI/WechatIMG781
+[2024.05.27-06.17.00:088][544]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/WechatIMG781FF65962D40F92B05A1116386DF7BB8C1.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/UI/WechatIMG781.uasset'
+[2024.05.27-06.17.00:098][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.641 ms (total: 1.07 sec)
+[2024.05.27-06.17.00:125][544]LogContentValidation: Display: Starting to validate 2 assets
+[2024.05.27-06.17.00:125][544]LogContentValidation: Enabled validators:
+[2024.05.27-06.17.00:125][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-06.17.00:125][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-06.17.00:125][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-06.17.00:125][544]LogContentValidation: Display: Validating asset /Game/Maps/UI/Mainmenu.Mainmenu
+[2024.05.27-06.17.00:126][544]AssetCheck: /Game/Maps/UI/Mainmenu Проверка ресурса
+[2024.05.27-06.17.00:126][544]LogContentValidation: Display: Validating asset /Game/Maps/UI/WechatIMG781.WechatIMG781
+[2024.05.27-06.17.00:126][544]AssetCheck: /Game/Maps/UI/WechatIMG781 Проверка ресурса
+[2024.05.27-06.17.00:146][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.27-06.17.05:953][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.27-06.17.07:237][224]LogSlate: Window 'Сохранять контент' being destroyed
+[2024.05.27-06.17.07:243][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-06.17.07:269][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/UI/maxresdefault] ([1] browsable assets)...
+[2024.05.27-06.17.07:270][224]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/UI/maxresdefault.maxresdefault]
+[2024.05.27-06.17.07:270][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/UI/maxresdefault]
+[2024.05.27-06.17.07:270][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/UI/maxresdefault" FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/UI/maxresdefault.uasset" SILENT=true
+[2024.05.27-06.17.07:271][224]LogSavePackage: Moving output files for package: /Game/Maps/UI/maxresdefault
+[2024.05.27-06.17.07:271][224]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/maxresdefaultB4455348408CC71C23656CA5C2834BAD.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/UI/maxresdefault.uasset'
+[2024.05.27-06.17.07:304][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.289 ms (total: 1.13 sec)
+[2024.05.27-06.17.07:304][224]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/mainmenumap.mainmenumap
+[2024.05.27-06.17.07:304][224]Cmd: MAP LOAD FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/Maps/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.27-06.17.07:354][224]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.17.07:354][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.17.07:354][224]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.17.07:354][224]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.17.07:365][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.17.07:366][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.27-06.17.07:376][224]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2024.05.27-06.17.07:376][224]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.17.07:395][224]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.27-06.17.07:404][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-06.17.07:407][224]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.27-06.17.07:407][224]MapCheck: Проверка карты завершена: 0 ошибок, 0 предупреждений, выполнена за 0,073 мс.
+[2024.05.27-06.17.07:469][224]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-06.17.07:469][224]LogContentValidation: Enabled validators:
+[2024.05.27-06.17.07:469][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-06.17.07:469][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-06.17.07:469][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-06.17.07:469][224]LogContentValidation: Display: Validating asset /Game/Maps/UI/maxresdefault.maxresdefault
+[2024.05.27-06.17.07:469][224]AssetCheck: /Game/Maps/UI/maxresdefault Проверка ресурса
+[2024.05.27-06.17.08:850][386]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-06.17.08:859][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-06.17.08:882][386]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_mainmenumap
+[2024.05.27-06.17.08:883][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000668s)
+[2024.05.27-06.17.08:883][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/mainmenumap.mainmenumap to /Game/Maps/UEDPIE_0_mainmenumap.mainmenumap (0.000692s)
+[2024.05.27-06.17.08:895][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.27-06.17.08:897][386]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.17.08:898][386]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2024.05.27-06.17.08:924][386]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.05.27-06.17.08:925][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-06.17.08:925][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-06.17.08:925][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-06.17.08:925][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-06.17.08:925][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-06.17.08:925][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-06.17.08:925][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-06.17.08:925][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-06.17.08:925][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-06.17.08:925][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-06.17.08:925][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-06.17.08:926][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-06.17.08:946][386]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-06.17.08:946][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-06.17.08:946][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-06.17.08:946][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-06.17.08:946][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.05.27-06.17.08:946][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2024.05.27-06.17.08:947][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.05.27-06.17.08:947][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.05.27-06.17.08:947][386]LogInit: FAudioDevice initialized with ID 15.
+[2024.05.27-06.17.08:947][386]LogAudio: Display: Audio Device (ID: 15) registered with world 'mainmenumap'.
+[2024.05.27-06.17.08:947][386]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.27-06.17.08:949][386]LogLoad: Game class is 'Menugamemode_C'
+[2024.05.27-06.17.08:949][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2024.05.27-08.17.08
+[2024.05.27-06.17.08:949][386]LogWorld: Bringing up level for play took: 0.000207
+[2024.05.27-06.17.08:950][386]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.05.27-06.17.08:977][386]PIE: Сервер вошел в систему
+[2024.05.27-06.17.08:977][386]PIE: Общее время запуска игры в редакторе: 0,124
+[2024.05.27-06.17.11:106][636]LogLongPackageNames: Warning: Can't Find URL: Map_Main: . Invalidating and reverting to Default URL.
+[2024.05.27-06.17.11:107][636]LogLongPackageNames: Warning: Can't Find URL: Map_Main: . Invalidating and reverting to Default URL.
+[2024.05.27-06.17.11:107][636]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2024.05.27-06.17.11:107][636]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.17.11:107][636]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap"
+[2024.05.27-06.17.11:107][636]LogNet: Warning: Travel Failure: [InvalidURL]: Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.17.11:107][636]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2024.05.27-06.17.11:107][636]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap"
+[2024.05.27-06.17.11:108][636]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.17.11:108][636]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Недопустимый URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2024.05.27-06.17.11:114][637]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap?closed"
+[2024.05.27-06.17.11:114][637]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2024.05.27-06.17.11:114][637]LogNet: Connection failed; returning to Entry
+[2024.05.27-06.17.11:114][637]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2024.05.27-06.17.11:114][637]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_mainmenumap
+[2024.05.27-06.17.11:114][637]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.17.11:114][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.17.11:114][637]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.17.11:114][637]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.17.11:155][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.17.11:156][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.27-06.17.11:164][637]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2024.05.27-06.17.11:164][637]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.17.11:165][637]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-06.17.11:165][637]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.17.11:165][637]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.05.27-06.17.11:165][637]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-06.17.11:166][637]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-06.17.11:169][637]LogStreaming: Display: FlushAsyncLoading(123): 88 QueuedPackages, 0 AsyncPackages
+[2024.05.27-06.17.11:205][637]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 39.090 ms (total: 113.437 ms)
+[2024.05.27-06.17.11:207][637]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.17.11:207][637]LogWorldPartition: Display: WorldPartition initialize took 42.286 ms (total: 380.474 ms)
+[2024.05.27-06.17.11:207][637]LogPlayLevel: PIE: World Init took: (0.042958s)
+[2024.05.27-06.17.11:207][637]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-06.17.11:211][637]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-08.17.11
+[2024.05.27-06.17.11:211][637]LogWorld: Bringing up level for play took: 0.004267
+[2024.05.27-06.17.11:213][637]LogLoad: Took 0.099720 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2024.05.27-06.17.11:213][637]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2024.05.27-06.17.11:226][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.27-06.17.17:592][398]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 23.0
+[2024.05.27-06.17.21:743][896]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 22.0
+[2024.05.27-06.17.22:243][956]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 21.0
+[2024.05.27-06.17.22:743][ 16]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 20.0
+[2024.05.27-06.17.23:243][ 76]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 19.0
+[2024.05.27-06.17.23:743][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 18.0
+[2024.05.27-06.17.24:244][196]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 17.0
+[2024.05.27-06.17.24:743][256]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 16.0
+[2024.05.27-06.17.31:078][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.17.31:078][  3]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.17.31:078][  3]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.17.31:079][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.17.31:079][  3]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-06.17.31:079][  3]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.17.31:079][  3]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.17.31:079][  3]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.17.31:081][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-06.17.31:084][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.17.31:096][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.17.31:096][  3]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.27-06.17.31:096][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.27-06.17.31:097][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.27-06.17.31:124][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.27-06.17.31:163][  4]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.05.27-06.17.35:224][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-06.17.35:233][482]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.05.27-06.17.35:233][482]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.17.35:233][482]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-06.17.35:235][482]LogStreaming: Display: FlushAsyncLoading(211): 89 QueuedPackages, 0 AsyncPackages
+[2024.05.27-06.17.35:281][482]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.17.35:281][482]LogWorldPartition: Display: WorldPartition initialize took 48.492 ms (total: 428.966 ms)
+[2024.05.27-06.17.35:285][482]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.05.27-06.17.35:285][482]Cmd: MAP LOAD FILE="../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.27-06.17.35:345][482]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.17.35:345][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.17.35:345][482]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.17.35:345][482]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.17.35:357][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-06.17.35:358][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.27-06.17.35:360][482]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.17.35:361][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.17.35:361][482]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.05.27-06.17.35:387][482]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.17.35:399][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.27-06.17.35:409][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-06.17.35:417][482]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.05.27-06.17.35:417][482]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.17.35:418][482]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.05.27-06.17.35:418][482]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.17.35:418][482]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-06.17.35:462][482]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.17.35:462][482]LogWorldPartition: Display: WorldPartition initialize took 44.172 ms (total: 473.138 ms)
+[2024.05.27-06.17.35:487][482]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.27-06.17.35:499][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.27-06.17.35:503][482]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.27-06.17.35:503][482]MapCheck: Проверка карты завершена: 0 ошибок, 0 предупреждений, выполнена за 0,519 мс.
+[2024.05.27-06.18.35:848][769]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.05.27-06.18.35:848][769]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.05.27-06.18.58:775][382]Cmd: EDIT COPY
+[2024.05.27-06.18.59:843][508]Cmd: EDIT PASTE
+[2024.05.27-06.19.15:323][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.05.27-06.19.15:323][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.05.27-06.19.15:323][172]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.05.27-06.19.15:853][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.27-06.19.15:865][232]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2024.05.27-06.19.15:870][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.05.27-06.19.15:870][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.05.27-06.19.15:872][232]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE40111A89F901_1783975290
+[2024.05.27-06.19.32:174][ 85]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2024.05.27-06.19.32:181][ 85]LogContentBundle: [FirstPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-06.19.32:181][ 85]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-06.19.32:183][ 85]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.083 ms (total: 115.521 ms)
+[2024.05.27-06.19.32:185][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-06.19.32:186][ 85]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.19.32:189][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003642s)
+[2024.05.27-06.19.32:189][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003666s)
+[2024.05.27-06.19.32:200][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.27-06.19.32:204][ 85]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-06.19.32:205][ 85]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-06.19.32:205][ 85]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-06.19.32:205][ 85]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-06.19.32:205][ 85]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-06.19.32:206][ 85]LogContentBundle: [FirstPersonMap(Автономный)] Creating new container.
+[2024.05.27-06.19.32:206][ 85]LogWorldPartition: Display: WorldPartition initialize took 1.415 ms (total: 474.554 ms)
+[2024.05.27-06.19.32:206][ 85]LogPlayLevel: PIE: World Init took: (0.002097s)
+[2024.05.27-06.19.32:232][ 85]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.05.27-06.19.32:232][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-06.19.32:232][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-06.19.32:232][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-06.19.32:232][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-06.19.32:232][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-06.19.32:232][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-06.19.32:232][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-06.19.32:232][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-06.19.32:232][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-06.19.32:232][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-06.19.32:232][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-06.19.32:234][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-06.19.32:252][ 85]LogAudioMixer: Display: Using Audio Hardware Device Наушники гарнитуры (CORSAIR VOID ELITE Wireless Gaming Headset)
+[2024.05.27-06.19.32:252][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-06.19.32:252][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-06.19.32:252][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-06.19.32:253][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.05.27-06.19.32:253][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2024.05.27-06.19.32:254][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.05.27-06.19.32:254][ 85]LogInit: FAudioDevice initialized with ID 16.
+[2024.05.27-06.19.32:254][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.05.27-06.19.32:254][ 85]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2024.05.27-06.19.32:254][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.05.27-06.19.32:256][ 85]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-06.19.32:258][ 85]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-08.19.32
+[2024.05.27-06.19.32:258][ 85]LogWorld: Bringing up level for play took: 0.002207
+[2024.05.27-06.19.32:259][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.05.27-06.19.32:286][ 85]PIE: Сервер вошел в систему
+[2024.05.27-06.19.32:287][ 85]PIE: Общее время запуска игры в редакторе: 0,109
+[2024.05.27-06.19.43:737][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.19.43:737][445]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-06.19.43:738][445]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.19.43:738][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.19.43:738][445]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-06.19.43:738][445]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.19.43:738][445]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.19.43:738][445]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.19.43:740][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-06.19.43:744][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.19.43:753][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-06.19.43:753][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.05.27-06.19.43:753][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.27-06.19.43:755][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.27-06.19.43:759][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.27-06.19.43:840][446]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.05.27-06.23.44:263][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-06.23.44:292][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/51/KXOBWU00YG9F7W9PJWTOYO
+[2024.05.27-06.23.44:292][313]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/KXOBWU00YG9F7W9PJWTOYODF551665470C49AFD4EB7BAF4EDE99A8.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/51/KXOBWU00YG9F7W9PJWTOYO.uasset'
+[2024.05.27-06.23.44:294][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8E/PGKQRNMT4R42UM3UFBS34E
+[2024.05.27-06.23.44:294][313]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Saved/PGKQRNMT4R42UM3UFBS34E0BE80A94449A6497BB77BCBC36316EFA.tmp' to '../../../../../../Users/Ether/Documents/Unreal Projects/RUNGUN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8E/PGKQRNMT4R42UM3UFBS34E.uasset'
+[2024.05.27-06.23.44:301][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.238 ms (total: 1.17 sec)
+[2024.05.27-06.23.44:325][313]LogContentValidation: Display: Starting to validate 2 assets
+[2024.05.27-06.23.44:325][313]LogContentValidation: Enabled validators:
+[2024.05.27-06.23.44:325][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-06.23.44:325][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-06.23.44:325][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-06.23.44:325][313]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.05.27-06.23.44:325][313]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Проверка ресурса
+[2024.05.27-06.23.45:236][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.27-06.23.45:252][417]LogStall: Shutdown...
+[2024.05.27-06.23.45:257][417]LogStall: Shutdown complete.
+[2024.05.27-06.23.45:273][417]LogSlate: Window 'Журнал сообщений' being destroyed
+[2024.05.27-06.23.45:276][417]LogSlate: Window 'RUNGUN — Unreal Editor' being destroyed
+[2024.05.27-06.23.45:352][417]Cmd: QUIT_EDITOR
+[2024.05.27-06.23.45:352][418]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.27-06.23.45:355][418]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.27-06.23.45:355][418]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.27-06.23.45:355][418]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.27-06.23.45:357][418]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.45:357][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-06.23.45:357][418]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.05.27-06.23.45:357][418]LogContentBundle: [FirstPersonMap(Автономный)] Deleting container.
+[2024.05.27-06.23.45:358][418]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-06.23.45:358][418]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-06.23.45:362][418]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.27-06.23.45:440][418]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.05.27-06.23.45:447][418]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.05.27-06.23.45:447][418]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.05.27-06.23.45:447][418]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.05.27-06.23.45:831][418]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.27-06.23.45:831][418]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.27-06.23.45:831][418]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2024.05.27-06.23.45:831][418]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.05.27-06.23.45:831][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.27-06.23.45:833][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.27-06.23.45:837][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.05.27-06.23.45:837][418]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.27-06.23.45:838][418]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.05.27-06.23.45:840][418]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.27-06.23.45:841][418]LogExit: Preparing to exit.
+[2024.05.27-06.23.45:858][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.27-06.23.45:869][418]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:870][418]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:872][418]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:873][418]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.45:874][418]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.27-06.23.46:085][418]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:086][418]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:088][418]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:089][418]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:090][418]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:092][418]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:094][418]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:095][418]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:096][418]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:097][418]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-06.23.46:164][418]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.27-06.23.46:183][418]LogExit: Editor shut down
+[2024.05.27-06.23.46:187][418]LogExit: Transaction tracking system shut down
+[2024.05.27-06.23.46:373][418]LogExit: Object subsystem successfully closed.
+[2024.05.27-06.23.46:404][418]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.27-06.23.46:887][418]MemoryProfiler: Shutdown
+[2024.05.27-06.23.46:887][418]NetworkingProfiler: Shutdown
+[2024.05.27-06.23.46:887][418]LoadingProfiler: Shutdown
+[2024.05.27-06.23.46:887][418]TimingProfiler: Shutdown
+[2024.05.27-06.23.47:074][418]LogOpenImageDenoise: OIDN shutting down
+[2024.05.27-06.23.47:353][418]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.05.27-06.23.47:353][418]RenderDocPlugin: plugin has been unloaded.
+[2024.05.27-06.23.47:391][418]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.27-06.23.47:391][418]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5EEDEA2-4D0B-1307-8D48-96BE7EF270F0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=aa56e3794d8f526fabb312a48019ae29%7C52fa40878bf94a38a9bedeedde051f73%7Ce223dc81-005d-45f4-8f2f-b4dcd205e82f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.05.27-06.23.47:402][418]LogXGEController: Cleaning working directory: C:/Users/Ether/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.05.27-06.23.47:404][418]LogPakFile: Destroying PakPlatformFile
+[2024.05.27-06.23.47:552][418]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.27-06.23.47:573][418]LogExit: Exiting.
+[2024.05.27-06.23.47:590][418]Log file closed, 05/27/24 08:23:47
